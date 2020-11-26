@@ -1,9 +1,5 @@
-CE5319 Machine Learning for Civil Engineers
-
-A graduate level course at Texas Tech University focused on applying modern machine learning methods to challenging civil engineering problems.
 
 # Instructor Venkatesh Uddameri, Ph.D. P.E
-
 
 # Course Purpose
 
